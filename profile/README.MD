@@ -2,7 +2,9 @@
   <img src="./AnyShapeLogo.png" width="250" alt="any-shape logo" />
 </p>
 
-# any-shape
+<p align="center">
+  # any-shape
+</p>
 
 **Tools for less boilerplate, more flow.**
 
