@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h2>any-shape</h2>
+  <h1>any-shape</h1>
 </p>
 
 **Tools for less boilerplate, more flow.**
