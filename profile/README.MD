@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="./AnyShapeLogo-250.png" width="200" alt="any-shape logo" />
+  <img src="./AnyShapeLogo-250.png" width="250" alt="any-shape logo" />
 </p>
 
-<p align="center">
-  <h1>any-shape</h1>
-</p>
+# any-shape
 
 **Tools for less boilerplate, more flow.**
 
@@ -12,15 +10,15 @@ We’re building `any-shape` — a home for modular, high-performance tools that
 
 ## 🧩 What We Make
 
-– ⚙️ Node.js/Nuxt 3/4 modules for auto-generating API logic  
-– 🧰 CLI tools for speeding up workflows  
-– 🔄 SQL/Rust/Go snippets for data, system, and process automation  
-– 💡 Gists and dev tips to cut through routine and friction  
+- ⚙️ **Node.js/Nuxt 3/4 modules for auto-generating API logic**
+- 🧰 **CLI tools for speeding up workflows**
+- 🔄 **SQL/Rust/Go snippets for data, system, and process automation**
+- 💡 **Gists and dev tips to cut through routine and friction**
 
-All our tools are:
+## 🛠️ All our tools are:
 - **Fully open-source**
 - **Type-safe and scalable**
-- **Designed for mid/senior devs**
+- **Designed for devs who want to focus on what matters**
 
 ## 🧭 Why We Do It
 
@@ -32,16 +30,15 @@ If it saves us time, it might save you hours.
 
 Found something helpful? Here’s how you can support us:
 
-- ⭐️ [Star our repositories](https://github.com/any-shape) — visibility helps  
-- 🛠 [Contribute ideas or code](https://github.com/any-shape) — we love PRs  
-- ☕ [Buy us a coffee](https://www.buymeacoffee.com/anyshape) — keeps the lights on  
-- 🧵 [Follow on GitHub](https://github.com/any-shape) — new tools dropping regularly
+- ⭐️ **[Star our repositories](https://github.com/any-shape) — visibility helps**
+- 🛠 **[Contribute ideas or code](https://github.com/any-shape/discussions) — we love PRs**
+- ☕ **[Buy us a coffee](https://www.buymeacoffee.com/anyshape) — keeps the lights on**
+- 🧵 **[Follow on GitHub](https://github.com/any-shape) — new tools dropping regularly**
 
 ## 📬 Stay in the Loop
 
-More tools and improvements are on the way.  
-Follow the org or check out our pinned projects for what's live.
+More tools and improvements are on the way. Follow the org or check out our pinned projects for what's live.
 
 ---
 
-Built by devs. For devs. For less grind and more *flow*.
+***Built by devs. For devs. For less grind and more flow. With ❤️***
