@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./AnyShapeLogo.png" width="250" alt="any-shape logo" />
+</p>
+
 # any-shape
 
 **Tools for less boilerplate, more flow.**
