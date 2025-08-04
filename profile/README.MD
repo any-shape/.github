@@ -4,36 +4,34 @@
 
 # any-shape
 
-**Tools for less boilerplate, more flow.**
+### Tools for less boilerplate, more flow.
 
-We’re building `any-shape` — a home for modular, high-performance tools that automate the boring stuff and help developers focus on what actually matters.
+Hey! I’m the creator behind `any-shape` — a home for open-source tools, modules, and ideas built to automate the boring stuff and let developers focus on what truly matters.
 
-## 🧩 What We Make
+## 🧩 What I Build
 
-- ⚙️ **Node.js/Nuxt 3/4 modules for auto-generating API logic**
+- ⚙️ **Vue/Nuxt modules**
 - 🧰 **CLI tools for speeding up workflows**
-- 🔄 **SQL/Rust/Go snippets for data, system, and process automation**
+- 🔄 **SQL/Node snippets for data, system, and process automation**
 - 💡 **Gists and dev tips to cut through routine and friction**
 
-## 🛠️ All our tools are:
+## 🛠️ All my tools are:
 - **Fully open-source**
 - **Type-safe and scalable**
 - **Designed for devs who want to focus on what matters**
 
-## 🧭 Why We Do It
+## 🧭 Why I Do It
 
-We believe that great developer tools should feel invisible — working quietly in the background to make your job easier. Every script, module, or CLI we release is something we’ve needed ourselves to ship faster, cleaner, and with less mental overhead.
-
-If it saves us time, it might save you hours.
+I believe developer tools should feel effortless and invisible. Every module, snippet, or CLI I share comes from real pain points I’ve solved in my own work — if it saves me hours, it might save you even more.
 
 ## ☕ Support & Involvement
 
 Found something helpful? Here’s how you can support us:
 
 - ⭐️ **[Star our repositories](https://github.com/any-shape) — visibility helps**
-- 🛠 **[Contribute ideas or code](https://github.com/any-shape/discussions) — we love PRs**
-- ☕ **[Buy us a coffee](https://www.buymeacoffee.com/anyshape) — keeps the lights on**
-- 🧵 **[Follow on GitHub](https://github.com/any-shape) — new tools dropping regularly**
+- 🛠 **[Contribute ideas or code](https://github.com/any-shape/discussions) — collaboration is welcome**
+- ☕ **[Buy me a coffee](https://ko-fi.com/anyshape) — keeps the lights on**
+- 🧵 **[Follow on GitHub](https://github.com/any-shape) — I’m rolling out more modules and scripts regularly**
 
 ## 📬 Stay in the Loop
 
@@ -41,4 +39,4 @@ More tools and improvements are on the way. Follow the org or check out our pinn
 
 ---
 
-***Built by devs. For devs. For less grind and more flow. With ❤️***
+***Built by dev. For devs. With ❤️***
