@@ -24,7 +24,7 @@ I believe developer tools should feel effortless and invisible. Every module, sn
 
 Found something helpful? Here’s how you can support us:
 
-- ⭐️ **[Star our repositories](https://github.com/any-shape) — visibility helps**
+- ⭐️ **[Star my repositories](https://github.com/any-shape) — visibility helps**
 - 🛠 **[Contribute ideas or code](https://github.com/any-shape/discussions) — collaboration is welcome**
 - ☕ **[Buy me a coffee](https://ko-fi.com/anyshape) — keeps the lights on**
 - 🧵 **[Follow on GitHub](https://github.com/any-shape) — I’m rolling out more modules and scripts regularly**
