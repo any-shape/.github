@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./AnyShapeLogo-250.png" width="215" alt="any-shape logo" />
-</p>
-
 # any-shape
 
 ### Tools for less boilerplate, more flow.
