@@ -31,7 +31,7 @@ Found something helpful? Here’s how you can support us:
 
 ## 📬 Stay in the Loop
 
-More tools and improvements are on the way. Follow the org or check out our pinned projects for what's live.
+More tools and improvements are on the way. Follow the org or check out my pinned projects for what's live.
 
 ---
 
